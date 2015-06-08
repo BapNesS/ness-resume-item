@@ -1,0 +1,25 @@
+{
+    "name": "ness-resume-item",
+    "version": "0.0.1",
+    "homepage": "https://github.com/BapNesS/ness-resume-item",
+    "authors": [
+        "Baptiste Carlier <contact@baptistecarlier.com>"
+    ],
+    "description": "Polymer element for resume item",
+    "keywords": [
+        "polymer"
+    ],
+    "license": "MIT",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "main": "ness-resume-item.html",
+    "dependencies": {
+        "polymer": "Polymer/polymer#^1.0.2"
+    }
+}
